@@ -2,9 +2,9 @@
   "name": "y",
   "version": "1.0.0",
   "description": "",
-  "main": "home.html",
+  "main": "index.html",
   "scripts": {
-    "test": "d"
+    "start": "node index.html"
   },
   "repository": {
     "type": "git",
