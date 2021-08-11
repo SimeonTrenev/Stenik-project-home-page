@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.php",
+  "scripts": {
+    "test": "d"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimeonTrenev/Stenik-project-home-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimeonTrenev/Stenik-project-home-page/issues"
+  },
+  "homepage": "https://github.com/SimeonTrenev/Stenik-project-home-page#readme"
+}
